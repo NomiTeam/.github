@@ -1,17 +1,28 @@
-# 🌌 Mirai MC
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NomiTeam/.github/main/profile/assets/nomi-logo-cream-512.png" width="144" height="144" alt="糯米小镇的绿叶帽、红围巾糯米团子 Logo">
+</p>
 
-基于 **26.3 Lophine** 服务端运行的 Minecraft 服务器。
+<h1 align="center">糯米小镇 · Nomi Town</h1>
 
-本组织仅用于存储和维护本服务器所使用的资源：
-- **服务器主页**：服务器官方网站及相关前端页面。
-- **插件项目**：基于社区现有开源插件，针对 26.3 Lophine 环境及本服需求进行重构与定制的二次开发版本。
+<p align="center"><strong>原版生存 · 悠闲种田 · 钓鱼烹饪</strong></p>
 
----
+<p align="center">
+  <a href="https://mc.missdrop.cn">小镇官网</a> ·
+  <a href="https://qm.qq.com/q/JWCiU0jwyq">加入 QQ 群</a>
+</p>
 
-## ⚖️ 开源致谢与说明
+## 一起，把日子过成喜欢的样子
 
-重构插件均遵循原项目的开源许可证协议，保留原作者版权声明及原始仓库信息。重构主要用于适配 26.3 Lophine 环境、修复缺陷及定制服务器所需功能，感谢原作者及开源社区的贡献。
+以 Minecraft 原版生存为底色，种一片田、钓一会儿鱼，做饭、建造，和朋友一起经营自己的小小日常。
 
----
+- **连接地址**：`play.missdrop.cn`
+- **当前版本**：Minecraft Java 版 **26.3**
+- **入服说明**：启动器、账号设置及最新客户端要求，请以群公告为准；玩法细节请查看游戏内菜单与帮助。
 
-- **服务器主页**：*mc.missdrop.cn*
+## 关于 NomiTeam
+
+这里维护糯米小镇的官网、工具与相关开源适配项目。各仓库记录各自的开发与维护工作，不作为线上已部署功能或插件的清单。
+
+## 开源与致谢
+
+感谢各项目原作者及开源社区的贡献。具体许可证以各仓库的 `LICENSE` 和上游声明为准；二次开发时请保留相应的版权、许可与来源信息。
