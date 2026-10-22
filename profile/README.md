@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NomiTeam/.github/main/profile/assets/nomi-logo-cream-512.png" width="144" height="144" alt="糯米小镇的绿叶帽、红围巾糯米团子 Logo">
+  <img src="https://raw.githubusercontent.com/NomiTeam/.github/main/profile/assets/nomi-town-round-badge.png" width="144" height="144" alt="糯米小镇棕色圆框团子徽章">
 </p>
 
 <h1 align="center">糯米小镇 · Nomi Town</h1>
