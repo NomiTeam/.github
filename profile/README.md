@@ -38,8 +38,8 @@ NomiTeam 围绕糯米小镇开发和维护网页与配套工具。我们的工�
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NomiTeam/nomi-auth-plugin">QQ 验证插件</a></h3>
-      <p>面向 Nomi Auth 的 NoneBot QQ 验证插件，为账户服务提供配套验证。</p>
+      <h3><a href="https://github.com/NomiTeam/server-config">服务端配置</a></h3>
+      <p>糯米小镇单端 Minecraft 服务器配置，集中管理 Lophine、插件、菜单与启动服务；仓库仅向获授权成员开放。</p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/NomiTeam/homepage">糯米小镇官网</a></h3>
