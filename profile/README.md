@@ -19,7 +19,7 @@
 
 NomiTeam 围绕糯米小镇开发和维护网页与配套工具。我们的工作从网站上的信息呈现，延伸到账户管理、认证服务和启动入口，也包括为这些环节提供连接的验证插件。这里汇集相关代码与文档，方便了解项目之间的关系，也方便把问题和改进带到合适的仓库。
 
-网站、账号和启动器各有自己的职责：官网承载糯米小镇的静态页面，Nomi Auth 提供账户管理与认证服务，启动器提供启动入口，QQ 验证插件则面向 Nomi Auth 提供配套验证。阅读或参与其中一项时，可以先从对应仓库的 README 入手，再按需了解相关项目。
+网站、账号和启动器各有自己的职责：官网承载糯米小镇的静态页面，Nomi Auth Neo 提供账户管理与认证服务，启动器提供启动入口，QQ 验证插件则面向 Nomi Auth Neo 提供配套验证。阅读或参与其中一项时，可以先从对应仓库的 README 入手，再按需了解相关项目。
 
 ## 项目一览
 
@@ -30,8 +30,8 @@ NomiTeam 围绕糯米小镇开发和维护网页与配套工具。我们的工�
       <p>基于 HMCL 的跨平台 Minecraft 启动器，支持 QQ 群验证码登录。</p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/NomiTeam/nomi-auth">账户与认证</a></h3>
-      <p>Nomi 账户管理与 Yggdrasil 认证服务，集中呈现账户与认证相关工作。</p>
+      <h3><a href="https://github.com/NomiTeam/nomi-auth-neo">Nomi Auth Neo</a></h3>
+      <p>使用 Rust 实现的 Nomi 账户管理与 Yggdrasil 认证服务。</p>
     </td>
   </tr>
   <tr>
